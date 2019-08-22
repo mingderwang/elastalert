@@ -76,6 +76,7 @@ alerts_mapping = {
     'stride': alerts.StrideAlerter,
     'ms_teams': alerts.MsTeamsAlerter,
     'slack': alerts.SlackAlerter,
+    'line': alerts.LineAlerter,
     'mattermost': alerts.MattermostAlerter,
     'pagerduty': alerts.PagerDutyAlerter,
     'pagertree': alerts.PagerTreeAlerter,
